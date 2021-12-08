@@ -1,6 +1,6 @@
 # HeroBaseballSimulator 
 
-프로젝트 명 : 히어로 야구 시뮬레이터
+프로젝트 명 : 히어로 대결 시뮬레이터
 
 사용 언어 : Java
 
