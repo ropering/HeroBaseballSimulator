@@ -9,7 +9,6 @@
 개발 기간 : 21.05.07 - 21.05.11
 
 
-![title](https://user-images.githubusercontent.com/50795314/119055731-83467380-ba04-11eb-81e7-f7e855ec7f25.JPG)
 
 ![슬라이드3](https://user-images.githubusercontent.com/50795314/119055745-880b2780-ba04-11eb-9411-8f54f78be30b.JPG)
 
@@ -32,8 +31,6 @@
 ![슬라이드13](https://user-images.githubusercontent.com/50795314/119055860-b25ce500-ba04-11eb-8fe5-bc910b9bce80.JPG)
 
 ![슬라이드14](https://user-images.githubusercontent.com/50795314/119055864-b38e1200-ba04-11eb-9aaa-27c0bb591d79.JPG)
-
-![슬라이드15](https://user-images.githubusercontent.com/50795314/119055870-b4bf3f00-ba04-11eb-8022-8f2735f5e72a.JPG)
 
 ![슬라이드16](https://user-images.githubusercontent.com/50795314/119055875-b7ba2f80-ba04-11eb-8381-7640b791803a.JPG)
 
